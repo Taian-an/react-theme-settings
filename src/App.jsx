@@ -1,6 +1,6 @@
 import "./App.css";
 import { SettingsProvider, useSettings } from "./contexts";
-import Header from "./Components/header"; // 修正為大寫 H
+import Header from "./Components/header"; 
 import SettingsPanel from "./Components/settings_panel"; 
 import PreviewCard from "./Components/PreviewCard";
 
